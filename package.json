@@ -1,0 +1,15 @@
+{
+  "name": "word-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "word-finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-table": "^1.1.1",
+    "transducers.js": "^0.3.2"
+  }
+}
